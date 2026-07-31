@@ -120,6 +120,12 @@ Seed data is defined in `GameStoreContext.OnModelCreating`. The included seed en
 
 *Screenshot: Diagram created by Mihajlo.*
 
+## Database
+
+<img width="421" height="204" alt="image" src="https://github.com/user-attachments/assets/a4e54fae-89da-41d9-adb9-6ced5c4954c5" />
+
+*Example: Query results from the GameStore development database showing seeded game records (Id, Title, Author, Price, releaseDate).*
+
 
 ## Project structure
 ```
