@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore\\migrations\\20260730133251_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\migrations\\20260730133251_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore\\data\\gamestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB61D64A-945E-D805-260E-C587CA0BA1C7}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\data\\gamestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C546A95-D6EF-4C84-B851-D5BA4F591C27}|GameStore.Tests\\GameStore.Tests.csproj|e:\\visual studio\\aspnet\\gamestore\\gamestore.tests\\gamemodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C546A95-D6EF-4C84-B851-D5BA4F591C27}|GameStore.Tests\\GameStore.Tests.csproj|solutionrelative:gamestore.tests\\gamemodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "GameStore\\Views\\Games\\Create.cshtml",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\Games\\Create.cshtml",
+              "RelativeToolTip": "GameStore\\Views\\Games\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T14:15:49.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GameStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GameStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T14:15:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GameStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GameStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T14:15:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "GameStore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "GameStore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T14:15:35.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T14:15:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260730133251_InitialCreate.cs",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Migrations\\20260730133251_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GameStore\\Migrations\\20260730133251_InitialCreate.cs",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Migrations\\20260730133251_InitialCreate.cs",
+              "RelativeToolTip": "GameStore\\Migrations\\20260730133251_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T14:13:38.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameStoreContext.cs",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Data\\GameStoreContext.cs",
+              "RelativeDocumentMoniker": "GameStore\\Data\\GameStoreContext.cs",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore\\Data\\GameStoreContext.cs",
+              "RelativeToolTip": "GameStore\\Data\\GameStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T14:09:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameModelTest.cs",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore.Tests\\GameModelTest.cs",
+              "RelativeDocumentMoniker": "GameStore.Tests\\GameModelTest.cs",
+              "ToolTip": "E:\\VISUAL STUDIO\\aspnet\\GameStore\\GameStore.Tests\\GameModelTest.cs",
+              "RelativeToolTip": "GameStore.Tests\\GameModelTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T14:03:10.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+@using System.Linq;
+
+<div class="text-center mt-5">
+    <h1 class="display-4">Welcome to PixelMarketplace game store</h1>
+    <p class="lead">Your place to browse, add, and manage games.</p>
+    <a asp-controller="Games" asp-action="Index" class="btn btn-primary btn-lg mt-3">
+        View Games
+    </a>
+</div>
+
+<hr class="my-5" />
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">Browse Games</h5>
+                <p class="card-text">See all available games in the store.</p>
+                <a asp-controller="Games" asp-action="Index" class="btn btn-outline-primary">Go</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">Add New Game</h5>
+                <p class="card-text">Create and add your own game entry.</p>
+                <a asp-controller="Games" asp-action="Create" class="btn btn-outline-success">Add</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">Manage Games</h5>
+                <p class="card-text">Edit or delete existing games.</p>
+                <a asp-controller="Games" asp-action="Index" class="btn btn-outline-warning">Manage</a>
+            </div>
+        </div>
+    </div>
+</div>
+<br /><br />
+<form asp-controller="Games" asp-action="Index" method="get">
+    <input type="text" name="searchString" class="form-control" placeholder="Search games..." />
+    <button type="submit" class="btn btn-primary mt-2">Search</button>
+</form>

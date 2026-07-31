@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GameStore.Tests/GameStore.Tests.csproj" Id="3c546a95-d6ef-4c84-b851-d5ba4f591c27" />
+  <Project Path="GameStore/GameStore.csproj" />
+</Solution>

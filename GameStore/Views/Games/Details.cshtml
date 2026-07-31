@@ -1,0 +1,23 @@
+@model GameStore.Models.Game
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="mb-3">Game Details</h1>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <h4 class="card-title text-primary">@Model.Title</h4>
+        <p class="card-text">
+            <strong>Author:</strong> @Model.Author <br />
+            <strong>Price:</strong> @Model.Price <br />
+            <strong>Release Date:</strong> @Model.releaseDate.ToShortDateString()
+        </p>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Back to List</a>
+</div>
