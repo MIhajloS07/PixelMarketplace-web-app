@@ -8,8 +8,6 @@
 
 **PixelMarketPlace** demonstrates a full end‑to‑end workflow for managing video game records. The app includes browsing, searching, creating, editing, and deleting game entries. It ships with EF Core migrations and seeded demo data so the app works out of the box, and it includes unit tests that run against an in‑memory database.
 
-This repository is ideal as a portfolio piece to show practical knowledge of ASP.NET Core MVC, EF Core, and automated testing.
-
 ---
 
 ## Features
