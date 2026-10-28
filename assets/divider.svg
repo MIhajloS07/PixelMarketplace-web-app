@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Pixel divider">
+<style>.p{animation:wave 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes wave{0%,100%{opacity:.12;transform:scale(.55)}50%{opacity:1;transform:scale(1)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect class="p" x="10" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:0.00s"/>
+<rect class="p" x="40" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:0.06s"/>
+<rect class="p" x="70" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:0.12s"/>
+<rect class="p" x="100" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:0.18s"/>
+<rect class="p" x="130" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:0.24s"/>
+<rect class="p" x="160" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:0.30s"/>
+<rect class="p" x="190" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:0.36s"/>
+<rect class="p" x="220" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:0.42s"/>
+<rect class="p" x="250" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:0.48s"/>
+<rect class="p" x="280" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:0.54s"/>
+<rect class="p" x="310" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:0.60s"/>
+<rect class="p" x="340" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:0.66s"/>
+<rect class="p" x="370" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:0.72s"/>
+<rect class="p" x="400" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:0.78s"/>
+<rect class="p" x="430" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:0.84s"/>
+<rect class="p" x="460" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:0.90s"/>
+<rect class="p" x="490" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:0.96s"/>
+<rect class="p" x="520" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:1.02s"/>
+<rect class="p" x="550" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:1.08s"/>
+<rect class="p" x="580" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:1.14s"/>
+<rect class="p" x="610" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:1.20s"/>
+<rect class="p" x="640" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:1.26s"/>
+<rect class="p" x="670" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:1.32s"/>
+<rect class="p" x="700" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:1.38s"/>
+<rect class="p" x="730" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:1.44s"/>
+<rect class="p" x="760" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:1.50s"/>
+<rect class="p" x="790" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:1.56s"/>
+<rect class="p" x="820" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:1.62s"/>
+<rect class="p" x="850" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:1.68s"/>
+<rect class="p" x="880" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:1.74s"/>
+<rect class="p" x="910" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:1.80s"/>
+<rect class="p" x="940" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:1.86s"/>
+<rect class="p" x="970" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:1.92s"/>
+<rect class="p" x="1000" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:1.98s"/>
+<rect class="p" x="1030" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:2.04s"/>
+<rect class="p" x="1060" y="4" width="14" height="14" fill="#00f5ff" style="animation-delay:2.10s"/>
+<rect class="p" x="1090" y="4" width="14" height="14" fill="#ff2bd6" style="animation-delay:2.16s"/>
+<rect class="p" x="1120" y="4" width="14" height="14" fill="#7c3aed" style="animation-delay:2.22s"/>
+<rect class="p" x="1150" y="4" width="14" height="14" fill="#ffe66d" style="animation-delay:2.28s"/>
+<rect class="p" x="1180" y="4" width="14" height="14" fill="#39ff14" style="animation-delay:2.34s"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Animated CI pipeline">
+<style>text{font-family:'Courier New',Courier,monospace}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><filter id="gl" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="210" rx="18" fill="#0d0a1f"/><rect x="1" y="1" width="1198" height="208" rx="17" fill="none" stroke="#2b2450"/>
+<text x="15" y="34" font-size="16" font-weight="700" fill="#fff">CI PIPELINE</text><text x="150" y="34" font-size="13" fill="#8b86a8">.github/workflows/ci.yml</text>
+<rect x="185" y="104.0" width="80" height="4" fill="#2b2450"/>
+<rect x="185" y="104.0" width="0" height="4" fill="#39ff14"><animate attributeName="width" values="0;0;80;80" keyTimes="0;0.2167;0.2583;1" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="15" y="56" width="170" height="100" rx="14" fill="#15102f" stroke="#30363d" stroke-width="1.5"/>
+<rect x="15" y="56" width="170" height="100" rx="14" fill="none" stroke="#00f5ff" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0833;0.0875;0.2167;0.2208;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="15" y="56" width="170" height="100" rx="14" fill="none" stroke="#39ff14" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.2167;0.2208;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<circle cx="41" cy="88" r="10" fill="none" stroke="#6e7681" stroke-width="2.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.0833;0.0875;1.0000" dur="12s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0833;0.0875;0.2167;0.2208;1.0000" dur="12s" repeatCount="indefinite"/><circle cx="41" cy="88" r="10" fill="none" stroke="#00f5ff" stroke-width="3" stroke-dasharray="20 44" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 41 88" to="360 41 88" dur="0.9s" repeatCount="indefinite"/></circle></g>
+<g opacity="0" transform="translate(41,88)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.2167;0.2208;1.0000" dur="12s" repeatCount="indefinite"/><circle r="11" fill="#39ff14" fill-opacity=".15" stroke="#39ff14" stroke-width="2"/><path d="M-5,0 L-1.5,4 L6,-4.5" fill="none" stroke="#39ff14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="65" y="94" font-size="17" font-weight="700" fill="#fff">Checkout</text>
+<text x="31" y="132" font-size="12" fill="#a9a4c9">actions/checkout@v4</text>
+<rect x="435" y="104.0" width="80" height="4" fill="#2b2450"/>
+<rect x="435" y="104.0" width="0" height="4" fill="#39ff14"><animate attributeName="width" values="0;0;80;80" keyTimes="0;0.3833;0.4250;1" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="265" y="56" width="170" height="100" rx="14" fill="#15102f" stroke="#30363d" stroke-width="1.5"/>
+<rect x="265" y="56" width="170" height="100" rx="14" fill="none" stroke="#00f5ff" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2500;0.2542;0.3833;0.3875;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="265" y="56" width="170" height="100" rx="14" fill="none" stroke="#39ff14" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.3833;0.3875;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<circle cx="291" cy="88" r="10" fill="none" stroke="#6e7681" stroke-width="2.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.2500;0.2542;1.0000" dur="12s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2500;0.2542;0.3833;0.3875;1.0000" dur="12s" repeatCount="indefinite"/><circle cx="291" cy="88" r="10" fill="none" stroke="#00f5ff" stroke-width="3" stroke-dasharray="20 44" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 291 88" to="360 291 88" dur="0.9s" repeatCount="indefinite"/></circle></g>
+<g opacity="0" transform="translate(291,88)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.3833;0.3875;1.0000" dur="12s" repeatCount="indefinite"/><circle r="11" fill="#39ff14" fill-opacity=".15" stroke="#39ff14" stroke-width="2"/><path d="M-5,0 L-1.5,4 L6,-4.5" fill="none" stroke="#39ff14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="315" y="94" font-size="17" font-weight="700" fill="#fff">Setup</text>
+<text x="281" y="132" font-size="12" fill="#a9a4c9">setup-dotnet 10.0.x</text>
+<rect x="685" y="104.0" width="80" height="4" fill="#2b2450"/>
+<rect x="685" y="104.0" width="0" height="4" fill="#39ff14"><animate attributeName="width" values="0;0;80;80" keyTimes="0;0.5500;0.5917;1" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="515" y="56" width="170" height="100" rx="14" fill="#15102f" stroke="#30363d" stroke-width="1.5"/>
+<rect x="515" y="56" width="170" height="100" rx="14" fill="none" stroke="#00f5ff" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4167;0.4208;0.5500;0.5542;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="515" y="56" width="170" height="100" rx="14" fill="none" stroke="#39ff14" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.5500;0.5542;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<circle cx="541" cy="88" r="10" fill="none" stroke="#6e7681" stroke-width="2.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.4167;0.4208;1.0000" dur="12s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4167;0.4208;0.5500;0.5542;1.0000" dur="12s" repeatCount="indefinite"/><circle cx="541" cy="88" r="10" fill="none" stroke="#00f5ff" stroke-width="3" stroke-dasharray="20 44" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 541 88" to="360 541 88" dur="0.9s" repeatCount="indefinite"/></circle></g>
+<g opacity="0" transform="translate(541,88)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.5500;0.5542;1.0000" dur="12s" repeatCount="indefinite"/><circle r="11" fill="#39ff14" fill-opacity=".15" stroke="#39ff14" stroke-width="2"/><path d="M-5,0 L-1.5,4 L6,-4.5" fill="none" stroke="#39ff14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="565" y="94" font-size="17" font-weight="700" fill="#fff">Restore</text>
+<text x="531" y="132" font-size="12" fill="#a9a4c9">dotnet restore</text>
+<rect x="935" y="104.0" width="80" height="4" fill="#2b2450"/>
+<rect x="935" y="104.0" width="0" height="4" fill="#39ff14"><animate attributeName="width" values="0;0;80;80" keyTimes="0;0.7167;0.7583;1" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="765" y="56" width="170" height="100" rx="14" fill="#15102f" stroke="#30363d" stroke-width="1.5"/>
+<rect x="765" y="56" width="170" height="100" rx="14" fill="none" stroke="#00f5ff" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5833;0.5875;0.7167;0.7208;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="765" y="56" width="170" height="100" rx="14" fill="none" stroke="#39ff14" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.7167;0.7208;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<circle cx="791" cy="88" r="10" fill="none" stroke="#6e7681" stroke-width="2.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.5833;0.5875;1.0000" dur="12s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5833;0.5875;0.7167;0.7208;1.0000" dur="12s" repeatCount="indefinite"/><circle cx="791" cy="88" r="10" fill="none" stroke="#00f5ff" stroke-width="3" stroke-dasharray="20 44" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 791 88" to="360 791 88" dur="0.9s" repeatCount="indefinite"/></circle></g>
+<g opacity="0" transform="translate(791,88)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.7167;0.7208;1.0000" dur="12s" repeatCount="indefinite"/><circle r="11" fill="#39ff14" fill-opacity=".15" stroke="#39ff14" stroke-width="2"/><path d="M-5,0 L-1.5,4 L6,-4.5" fill="none" stroke="#39ff14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="815" y="94" font-size="17" font-weight="700" fill="#fff">Build</text>
+<text x="781" y="132" font-size="12" fill="#a9a4c9">build -c Release</text>
+<rect x="1015" y="56" width="170" height="100" rx="14" fill="#15102f" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1015" y="56" width="170" height="100" rx="14" fill="none" stroke="#00f5ff" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7500;0.7542;0.8833;0.8875;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<rect x="1015" y="56" width="170" height="100" rx="14" fill="none" stroke="#39ff14" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.8833;0.8875;1.0000" dur="12s" repeatCount="indefinite"/></rect>
+<circle cx="1041" cy="88" r="10" fill="none" stroke="#6e7681" stroke-width="2.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.7500;0.7542;1.0000" dur="12s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7500;0.7542;0.8833;0.8875;1.0000" dur="12s" repeatCount="indefinite"/><circle cx="1041" cy="88" r="10" fill="none" stroke="#00f5ff" stroke-width="3" stroke-dasharray="20 44" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 1041 88" to="360 1041 88" dur="0.9s" repeatCount="indefinite"/></circle></g>
+<g opacity="0" transform="translate(1041,88)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.8833;0.8875;1.0000" dur="12s" repeatCount="indefinite"/><circle r="11" fill="#39ff14" fill-opacity=".15" stroke="#39ff14" stroke-width="2"/><path d="M-5,0 L-1.5,4 L6,-4.5" fill="none" stroke="#39ff14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1065" y="94" font-size="17" font-weight="700" fill="#fff">Test</text>
+<text x="1031" y="132" font-size="12" fill="#a9a4c9">test + coverage</text>
+<text x="600" y="190" text-anchor="middle" font-size="15" font-weight="700" fill="#39ff14" opacity="0">All checks passed<animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.9000;0.9042;1.0000" dur="12s" repeatCount="indefinite"/></text>
+</svg>
